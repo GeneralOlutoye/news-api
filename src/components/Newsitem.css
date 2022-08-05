@@ -1,0 +1,28 @@
+.news-app{
+    display: flex;
+    justify-content: center;
+}
+.news-body{
+    background-color: rgb(117, 201, 250);
+}
+
+.news-item{
+    width: 500px;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    background-color: rgb(205, 235, 2503);
+    margin-bottom: 20px;
+    font-size: small;
+}
+
+.news-img{
+    width: 400px;
+}
+
+.news-search{
+    width: 500px;
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 10px 10px 0px 0px;
+    border-bottom: none;
+}
