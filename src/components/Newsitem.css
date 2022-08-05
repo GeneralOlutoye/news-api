@@ -1,6 +1,7 @@
 .news-app{
     display: flex;
     justify-content: center;
+    background-color: inherit;
 }
 .news-body{
     background-color: rgb(117, 201, 250);
